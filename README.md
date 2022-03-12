@@ -1,2 +1,2 @@
 # sentry-distributed-tracing
-Distributed tracing in sentry
+Distributed tracing using sentry
