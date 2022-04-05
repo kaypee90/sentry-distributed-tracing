@@ -1,2 +1,2 @@
 # sentry-distributed-tracing
-Distributed tracing using sentry
+Distributed tracing using sentry using Python
