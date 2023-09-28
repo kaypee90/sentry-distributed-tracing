@@ -1,3 +1,7 @@
+"""
+Author Kaypee90
+"""
+
 from typing import Union
 import sentry_sdk
 import uuid
